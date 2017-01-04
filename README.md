@@ -1,7 +1,7 @@
 # DiscordGuides.us #
 ### Assistance with the world of DiscordApp #
 
-If you are curious about the guides, check out our [server](https://discord.gg/zXsAHTd) and [site](httpL//discordguide.us) .
+If you are curious about the guides, check out our [server](https://discord.gg/zXsAHTd) and [site](http://discordguide.us) .
 
 If you are looking for a pastrami bagel... you're out of luck, but we have guides.
 
